@@ -1,0 +1,1 @@
+python webui.py --no-gradio-queue --no-download-sd-model --allow-code --xformers --xformers-flash-attention --api --ckpt "/mnt/e/repo/diffusions/models/Anything/AnythingXL_xl.safetensors" --ckpt-dir "/mnt/e/repo/diffusions/models"
